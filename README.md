@@ -12,3 +12,4 @@ git clone git@github.com:quancao2310/Web_Assignment_Final_Structure.git btl
 Sau đó, khởi động local web server, truy cập trình duyệt và gõ ```localhost/btl```. Giao diện trang chủ web như sau:
 
 ![image](https://user-images.githubusercontent.com/99309814/234229546-b4bda658-d952-4964-b375-a6c581baf0c8.png)
+"# web_assignment" 
